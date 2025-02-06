@@ -38,6 +38,7 @@ public class Ejemplomaps {
         mapEstudiantes.put(23, new Estudiante("Ing multimedia", "2010144", "David Castro", "dacastro@uao.edu.co", "carr41"));
         mapEstudiantes.put(20, new Estudiante("Ing multimedia", "2010144", "Maria Castro", "dacastro@uao.edu.co", "carr41"));
         mapEstudiantes.put(20, new Estudiante("Ing multimedia", "2010144", "Maria Castro", "dacastro@uao.edu.co", "carr41"));
+                mapEstudiantes.put(20, new Estudiante("Ing multimedia", "2010144", "Maria Castro", "dacastro@uao.edu.co", "carr41"));
     }
 
 }
